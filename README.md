@@ -1,2 +1,3 @@
-# meal_app
-Application created during flutter course.
+Meal Application, created during course of flutter. 
+
+
